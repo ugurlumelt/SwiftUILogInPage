@@ -11,6 +11,7 @@
 		547016822C495CA20053C6E0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 547016812C495CA20053C6E0 /* ContentView.swift */; };
 		547016842C495CA30053C6E0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 547016832C495CA30053C6E0 /* Assets.xcassets */; };
 		547016872C495CA30053C6E0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 547016862C495CA30053C6E0 /* Preview Assets.xcassets */; };
+		5470168E2C495EAD0053C6E0 /* LogInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5470168D2C495EAD0053C6E0 /* LogInView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		547016812C495CA20053C6E0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		547016832C495CA30053C6E0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		547016862C495CA30053C6E0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5470168D2C495EAD0053C6E0 /* LogInView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogInView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				5470167F2C495CA20053C6E0 /* SwiftUILogInPageApp.swift */,
 				547016812C495CA20053C6E0 /* ContentView.swift */,
+				5470168D2C495EAD0053C6E0 /* LogInView.swift */,
 				547016832C495CA30053C6E0 /* Assets.xcassets */,
 				547016852C495CA30053C6E0 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5470168E2C495EAD0053C6E0 /* LogInView.swift in Sources */,
 				547016822C495CA20053C6E0 /* ContentView.swift in Sources */,
 				547016802C495CA20053C6E0 /* SwiftUILogInPageApp.swift in Sources */,
 			);
